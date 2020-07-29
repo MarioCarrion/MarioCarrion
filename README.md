@@ -17,4 +17,4 @@ Besides this Github Page you can also see my personal [Gitlab landing page](http
 - 🌱 I'm currently learning:
   - [Rust](https://www.rust-lang.org/)
   - [WebAssembly](https://webassembly.org/)
-- ⚡ Fun fact: I used to play a lot of Battlefield online and I almost became a professional gamer!
+- ⚡Fun fact: I used to play a lot of [Battlefield](https://www.ea.com/games/battlefield) online and I almost became a professional gamer!
