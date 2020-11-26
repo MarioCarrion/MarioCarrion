@@ -11,9 +11,10 @@ Besides this Github Page you can also see my personal [Gitlab landing page](http
 ---
 
 - 🔭 I'm currently working on:
+  - [`videos`](https://github.com/MarioCarrion/videos): Slides and examples used for my training videos.
   - [`nit`](https://github.com/MarioCarrion/nit): Opinionated code organization linter for Go projects.
   - [`versions`](https://github.com/MarioCarrion/versions): Dependencies report generator for Go projects.
-  - [`swagger-lint`](https://github.com/MarioCarrion/swagger-lint): Opinionated Swagger 2.0 Spec linter
+  - [`swagger-lint`](https://github.com/MarioCarrion/swagger-lint): Opinionated Swagger 2.0 Spec linter.
 - 🌱 I'm currently learning:
   - [Rust](https://www.rust-lang.org/)
   - [WebAssembly](https://webassembly.org/)
