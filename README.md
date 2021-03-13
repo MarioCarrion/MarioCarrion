@@ -1,13 +1,13 @@
 [<img src="twitter.svg" width="16" height="16" alt="Twitter">](https://twitter.com/MarioCarrion)
 [<img src="gitlab.svg" width="16" height="16" alt="Gitlab">](https://gitlab.com/MarioCarrion)
 [<img src="github.svg" width="16" height="16" alt="Github">](https://github.com/MarioCarrion)
-[<img src="youtube.svg" width="16" height="16" alt="YouTube">](https://youtube.com/MarioCarrion)
+[<img src="youtube.svg" width="16" height="16" alt="YouTube">](https://youtube.com/c/MarioCarrion)
 [<img src="linkedin.svg" width="16" height="16" alt="LinkedIn">](https://linkedin.com/in/MarioCarrion)
 [<img src="instagram.svg" width="16" height="16" alt="Instagram">](https://www.instagram.com/mario.carrion)
 
-### Hi there 👋
+### Hello and welcome 👋
 
-I'm a **Computer Systems Engineer** with more than 15 years of professional Software Engineering and Software Development experience, I specialize in **Architecting** and **Implementing** Performant Real Time **Scalable Web Services**.
+My name is Mario, I am a **Computer Systems Engineer** with more than 16 years of professional Software Engineering and Software Development experience, I specialize in **Architecting** and **Implementing** Performant Real Time **Scalable Web Services**.
 
 As a hands-on Backend Engineer and Technical Leader I've been lucky enough to manage, mentor and guide junior and experienced engineers, both collocated as well as distributed around the world in different timezones; in recent years I've been focused on using **Go** for building Web-based enterprise systems, using REST and gRPC.
 
@@ -20,7 +20,7 @@ Feel free to reach out to me at `<blog><@><carrion.ws>`. Cheers!
 ---
 
 - 🔭 I'm currently working on:
-  - [`todo-api-microservice-example`](https://github.com/MarioCarrion/todo-api-microservice-example): Go microservice tutorial project!
+  - [`todo-api-microservice-example`](https://github.com/MarioCarrion/todo-api-microservice-example): Go microservice tutorial project using Domain Driven Design and Hexagonal Architecture!
   - [`videos`](https://github.com/MarioCarrion/videos): Slides and examples used for my training videos.
   - [`nit`](https://github.com/MarioCarrion/nit): Opinionated code organization linter for Go projects.
   - [`versions`](https://github.com/MarioCarrion/versions): Dependencies report generator for Go projects.
