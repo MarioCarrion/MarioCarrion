@@ -1,9 +1,10 @@
-[<img src="twitter.svg" width="16" height="16" alt="Twitter">](https://twitter.com/MarioCarrion)
-[<img src="gitlab.svg" width="16" height="16" alt="Gitlab">](https://gitlab.com/MarioCarrion)
-[<img src="github.svg" width="16" height="16" alt="Github">](https://github.com/MarioCarrion)
-[<img src="youtube.svg" width="16" height="16" alt="YouTube">](https://youtube.com/c/MarioCarrion)
-[<img src="linkedin.svg" width="16" height="16" alt="LinkedIn">](https://linkedin.com/in/MarioCarrion)
-[<img src="instagram.svg" width="16" height="16" alt="Instagram">](https://www.instagram.com/mario.carrion)
+[<img src="link.svg" width="20" height="20" alt="Website">](https://mariocarrion.com/)
+[<img src="twitter.svg" width="20" height="20" alt="Twitter">](https://twitter.com/MarioCarrion)
+[<img src="gitlab.svg" width="20" height="20" alt="Gitlab">](https://gitlab.com/MarioCarrion)
+[<img src="github.svg" width="20" height="20" alt="Github">](https://github.com/MarioCarrion)
+[<img src="youtube.svg" width="20" height="20" alt="YouTube">](https://youtube.com/c/MarioCarrion)
+[<img src="linkedin.svg" width="20" height="20" alt="LinkedIn">](https://linkedin.com/in/MarioCarrion)
+[<img src="instagram.svg" width="20" height="20" alt="Instagram">](https://www.instagram.com/mario.carrion)
 
 ### Hello and welcome 👋
 
@@ -13,9 +14,9 @@ As a hands-on Backend Engineer and Technical Leader I've been lucky enough to ma
 
 During my career I've been able to work in different industries, delivering different types of production software, ranging from Real Time Automation Control Systems to [Linux Accessibility APIs](https://www.mono-project.com/archived/accessibility_team/) to Enterprise Advertising Web Applications.
 
-Besides this Github Page you can also see my personal [Gitlab landing page](https://gitlab.com/MarioCarrion), over there I have more Open Source projects I'm currently maintaining and updating.
+Besides this Github Page you can also see my [Gitlab landing page](https://gitlab.com/MarioCarrion), over there I have more Open Source projects I'm currently maintaining and updating.
 
-Feel free to reach out to me at `<blog><@><carrion.ws>`. Cheers!
+Feel free to reach out to me at `<blog><@><carrion.ws>`. **Keep it up, don't give up!**
 
 ---
 
