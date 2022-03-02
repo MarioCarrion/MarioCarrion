@@ -21,7 +21,8 @@ Feel free to reach out to me at `<blog><@><carrion.ws>`. **Keep it up, don't giv
 ---
 
 - 🔭 I'm currently working on:
-  - [`todo-api-microservice-example`](https://github.com/MarioCarrion/todo-api-microservice-example): Go microservice tutorial project using Domain Driven Design and Hexagonal Architecture!
+  - [`todo-api-microservice-example`](https://github.com/MarioCarrion/todo-api-microservice-example): Go microservice tutorial project using Domain Driven Design and Onion Architecture!
+  - [`grpc-microservice-example`](https://github.com/MarioCarrion/grpc-microservice-example): Go microservice tutorial project using gRPC
   - [`videos`](https://github.com/MarioCarrion/videos): Slides and examples used for my training videos.
   - [`nit`](https://github.com/MarioCarrion/nit): Opinionated code organization linter for Go projects.
   - [`versions`](https://github.com/MarioCarrion/versions): Dependencies report generator for Go projects.
