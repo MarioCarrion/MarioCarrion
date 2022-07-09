@@ -8,7 +8,7 @@
 
 ### Hello and welcome 👋
 
-My name is Mario, I am a **Computer Systems Engineer** with more than 16 years of professional Software Engineering and Software Development experience, I specialize in **Architecting** and **Implementing** Performant Real Time **Scalable Web Services**.
+My name is Mario, I am a **Computer Systems Engineer** with decades of of professional Software Engineering and Software Development experience, I specialize in **Architecting** and **Implementing** Performant Real Time **Scalable Web Services**.
 
 As a hands-on Backend Engineer and Technical Leader I've been lucky enough to manage, mentor and guide junior and experienced engineers, both collocated as well as distributed around the world in different timezones; in recent years I've been focused on using **Go** for building Web-based enterprise systems, using REST and gRPC.
 
@@ -16,7 +16,9 @@ During my career I've been able to work in different industries, delivering diff
 
 Besides this Github Page you can also see my [Gitlab landing page](https://gitlab.com/MarioCarrion), over there I have more Open Source projects I'm currently maintaining and updating.
 
-Feel free to reach out to me at `<blog><@><carrion.ws>`. **Keep it up, don't give up!**
+Feel free to reach out to me at `<blog><@><carrion.ws>`
+
+**Keep it up, don't give up!**
 
 ---
 
