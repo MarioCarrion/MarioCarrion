@@ -8,7 +8,7 @@
 
 ### Hello and welcome 👋
 
-My name is Mario, I am a **Computer Systems Engineer** with decades of of professional Software Engineering and Software Development experience, I specialize in **Architecting** and **Implementing** Performant Real Time **Scalable Web Services**.
+My name is Mario, I am a **Computer Systems Engineer** with decades of professional Software Engineering and Software Development experience, I specialize in **Architecting** and **Implementing** Performant Real Time **Scalable Web Services**.
 
 As a hands-on Backend Engineer and Technical Leader I've been lucky enough to manage, mentor and guide junior and experienced engineers, both collocated as well as distributed around the world in different timezones; in recent years I've been focused on using **Go** for building Web-based enterprise systems, using REST and gRPC.
 
@@ -24,7 +24,7 @@ Feel free to reach out to me at `<blog><@><carrion.ws>`
 
 - 🔭 I'm currently working on:
   - [`todo-api-microservice-example`](https://github.com/MarioCarrion/todo-api-microservice-example): Go microservice tutorial project using Domain Driven Design and Onion Architecture!
-  - [`grpc-microservice-example`](https://github.com/MarioCarrion/grpc-microservice-example): Go microservice tutorial project using gRPC
+  - [`grpc-microservice-example`](https://github.com/MarioCarrion/grpc-microservice-example): Go microservice tutorial project using gRPC.
   - [`videos`](https://github.com/MarioCarrion/videos): Slides and examples used for my training videos.
   - [`nit`](https://github.com/MarioCarrion/nit): Opinionated code organization linter for Go projects.
   - [`versions`](https://github.com/MarioCarrion/versions): Dependencies report generator for Go projects.
