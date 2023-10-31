@@ -3,25 +3,23 @@
 [<img src="linkedin.svg" width="20" height="20" alt="LinkedIn">](https://linkedin.com/in/MarioCarrion)
 [<img src="gitlab.svg" width="20" height="20" alt="Gitlab">](https://gitlab.com/MarioCarrion)
 [<img src="github.svg" width="20" height="20" alt="Github">](https://github.com/MarioCarrion)
+[<img src="x.png" width="20" height="20" alt="Twitter">](https://twitter.com/MarioCarrion)
 [<img src="mastodon.svg" width="20" height="20" alt="Mastodon">](https://fosstodon.org/@MarioCarrion)
-[<img src="twitter.svg" width="20" height="20" alt="Twitter">](https://twitter.com/MarioCarrion)
 [<img src="instagram.svg" width="20" height="20" alt="Instagram">](https://www.instagram.com/mario.carrion)
 
 # Hello and welcome 👋
 
 My name is Mario. I am a **Computer Systems Engineer** with decades of professional Software Engineering and Software Development experience. I specialize in **Architecting** and **Implementing** Performant Real-Time **Scalable Web Services**.
 
-Over the years, I've been lucky enough to manage, mentor, and guide junior and experienced engineers, both collocated and distributed across multiple timezones; in recent years, I've specialized in [**Go**](https://go.dev) for building Web-based Enterprise Systems, using REST and gRPC.
+Over the years, I've been lucky enough to manage, mentor, and guide junior and experienced engineers, both collocated and distributed across multiple timezones; in recent years, I specialized in [**Go**](https://go.dev) and **Amazon Web Services** to build Web-based Enterprise Systems, using REST and gRPC.
 
 During my career, I built all types of software, such as on-premise Automation Systems, [Linux Accessibility](https://www.mono-project.com/archived/accessibility_team/) Desktop Applications, Cloud Governance and Compliance Systems, and Distributed Cloud-based Advertising Systems.
 
 I also have a [Gitlab landing page](https://gitlab.com/MarioCarrion). Over there, I have more Open Source projects I'm currently maintaining and updating.
 
-Feel free to reach out to me at `<blog><@><carrion.ws>`
+Feel free to reach out to me at: `<blog><@><carrion.ws>`.
 
 **Keep it up, don't give up!**
-
----
 
 ## 🔭 I'm currently working on
 
