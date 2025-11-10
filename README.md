@@ -7,17 +7,17 @@
 [<img src="mastodon.svg" width="20" height="20" alt="Mastodon">](https://fosstodon.org/@MarioCarrion)
 [<img src="instagram.svg" width="20" height="20" alt="Instagram">](https://www.instagram.com/mario.carrion)
 
-# Hello and welcome 👋
+# Welcome!
 
-My name is Mario; I'm a **Hands-on Software Architect** and **Lead Backend Engineer** with decades of Software Engineering and Software Development experience. I specialize in **Architecting** and **Implementing Performant real-time Scalable Web Services**.
+Hi! I'm Mario👋
 
-Over the years, I've been lucky enough to manage, mentor, and guide junior and experienced engineers, both collocated and distributed across multiple time zones. In recent years, I've focused on using [**Go**](https://go.dev) and **Amazon Web Services** to build Web-based Enterprise Systems, using REST and gRPC.
+I'm a **Hands-on Software Architect** and **Lead Backend Engineer** with decades of experience in Software Engineering and Software Development. I specialize in **Architecting** and **Implementing** performant, real-time, scalable web services.
 
-During my career, I've been able to work in different industries, delivering various types of production software, such as on-premise Automation Systems, [**Linux Accessibility**](https://www.mono-project.com/archived/accessibility_team/) Desktop Applications, Cloud Governance and Compliance Systems, Media Streaming Services, and Highly Scalable Distributed Cloud-based Advertising Systems.
+Throughout my career, I've had the privilege of guiding, mentoring, and managing both junior and experienced engineers, whether they were working in the same office or remotely across different time zones. In recent years, I've been building Web-based Enterprise Systems with [**Go**](https://go.dev) using REST and gRPC.
 
-I also have a [**Gitlab landing page**](https://gitlab.com/MarioCarrion). Over there, I have more Open Source projects I'm currently maintaining and updating.
+My career has taken me across a variety of industries, where I delivered a wide range of production software, including on-premises Automation Systems, [**Linux Accessibility Desktop Applications**](https://www.mono-project.com/archived/accessibility_team/), [**Highly Scalable Distributed Cloud-based Advertising Systems**](https://www.businessrecord.com/meredith-acquires-selectable-media/), [**Cloud Governance and Compliance Systems**](https://www.capitalonecareers.com/creating-a-tech-first-career-path-tech-cdev), and [**Media Streaming Services**](https://www.paramount.com/careers).
 
-Feel free to reach out to me at: `<blog><@><carrion.ws>`.
+Feel free to explore my [Gitlab](https://gitlab.com/MarioCarrion) profile as well, to learn more about some of the Open Source projects I'm currently maintaining; you can reach out to me at `<blog><@><carrion.ws>`.
 
 **Keep it up, don't give up!**
 
@@ -27,7 +27,7 @@ Feel free to reach out to me at: `<blog><@><carrion.ws>`.
 - [**`grpc-microservice-example`**](https://github.com/MarioCarrion/grpc-microservice-example): Go microservice tutorial project using gRPC.
 - [**`videos`**](https://github.com/MarioCarrion/videos): Slides and examples used for my training videos.
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently specializing in
 
 - [Rust](https://www.rust-lang.org/)
 - [WebAssembly](https://webassembly.org/)
